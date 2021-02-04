@@ -10,6 +10,7 @@
  
 echo "Sultan Abdualiyev";
 echo '190103196';
+echo '190103196@stu.sdu.edu.kz';
 
 
 ?>
